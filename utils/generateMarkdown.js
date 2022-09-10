@@ -4,6 +4,7 @@ const displayLicenseBadge = (name) => {
   return `<img src='imglink' alt='badge' />`
 };
 
+// copied over from template.md then updated to fill in info from question prompts
 module.exports = (answers) => {
   return  `# ${'title'}
 

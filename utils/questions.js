@@ -1,3 +1,4 @@
+// seperate js page including all the questions that is brought into index.js 
 module.exports = [
     {
         type: 'input',

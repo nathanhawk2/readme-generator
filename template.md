@@ -1,3 +1,4 @@
+<!-- page used as a template for the markdown creation -->
 # Title ${title}
 
 ## Description
