@@ -3,10 +3,12 @@
 ## Description
 This code allows to run a series of prompts which ask for specific details per your project, and then creates a README file and fills it with the information that was inputted.
 
+Link to recording demo: 
+
 ## Table of  
 1. [Installation](#Installation)
 2. [Usage](#Usage)
-3. [Visuals]#Visuals
+3. [Visuals](#Visuals)
 
 ## Installation
 For installation, inquirer version 8.2.4 is required, as well as fs. To install, simply run npm install after cloning repo.

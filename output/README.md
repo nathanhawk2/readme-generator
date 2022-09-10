@@ -1,7 +1,8 @@
-# try 9 ![GitHub License]('https://img.shields.io/badge/license-5-blue)
+# REadme generator ![GitHub License]('https://img.shields.io/badge/license-MIT-green)
 
   ## Description
-  1
+  The description of my readme generator: https://drive.google.com/file/d/1QvFw4PMPXGCDoZAQdwNuqsd5vG-dqnDk/view?usp=sharing
+  
   
   ## Table of Contents
   1. [Installation](#Installation)
@@ -12,21 +13,23 @@
   6. [Questions](#Questions)
   
   ## Installation
-  2
+  How to install programs to run code
+  run npm install upon cloning github
   
   ## Usage
-  3
+  use to make a readme easily
   
   ## License
-  5
+  MIT
   
-  ## Contributing
-  6
+  ## Contributing Authors
+  Me
   
   ## Tests
-  4
+  
   
   ## Questions
-  7
-  8
+  If you have any questions feel free to contact me at:
+  GitHub: github.com/mygithub
+  E-Mail: email.me@gmail.com
   
