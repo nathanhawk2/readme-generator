@@ -13,4 +13,5 @@ prompt(questions).then((answers) => {
         fs.mkdirSync('output');
     }
     fs.writeFileSync('output/README.md', template);
+    console.log('All done! Check the output folder to find your generated README!')
 });

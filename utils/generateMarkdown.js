@@ -6,10 +6,10 @@ const displayLicenseBadge = (name) => {
 
 // copied over from template.md then updated to fill in info from question prompts
 module.exports = (answers) => {
-  return  `# ${'title'}
+  return  `# ${answers.title} ![GitHub License]('https://img.shields.io/badge/license-${answers.license}-${answers.licenseColor})
 
   ## Description
-  ${'description'}
+  ${answers.description}
   
   ## Table of Contents
   1. [Installation](#Installation)
@@ -20,22 +20,22 @@ module.exports = (answers) => {
   6. [Questions](#Questions)
   
   ## Installation
-  ${'installation'}
+  ${answers.installation}
   
   ## Usage
-  ${'usage'}
+  ${answers.usage}
   
   ## License
-  ${'license'}
+  ${answers.license}
   
   ## Contributing
-  ${'contributing'}
+  ${answers.contributing}
   
   ## Tests
-  ${'tests'}
+  ${answers.test}
   
   ## Questions
-  ${'gitHub'}
-  ${'email'}
+  ${answers.gitHub}
+  ${answers.email}
   `
 };
