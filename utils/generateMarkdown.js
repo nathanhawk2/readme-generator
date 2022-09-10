@@ -20,6 +20,7 @@ module.exports = (answers) => {
   6. [Questions](#Questions)
   
   ## Installation
+  How to install programs to run code
   ${answers.installation}
   
   ## Usage
@@ -28,14 +29,15 @@ module.exports = (answers) => {
   ## License
   ${answers.license}
   
-  ## Contributing
+  ## Contributing Authors
   ${answers.contributing}
   
   ## Tests
   ${answers.test}
   
   ## Questions
-  ${answers.gitHub}
-  ${answers.email}
+  If you have any questions feel free to contact me at:
+  GitHub: ${answers.gitHub}
+  E-Mail: ${answers.email}
   `
 };
